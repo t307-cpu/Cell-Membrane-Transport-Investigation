@@ -1926,8 +1926,8 @@
           restoreDraggedMolecule(molecule);
 
           setFeedback(
-            "Water must move from the side with more water " +
-            "molecules to the side with fewer water molecules.",
+            "For osmosis, there is net water movement from the side with" +
+            "higher water potential to the side with lower water potential.",
             "warning"
           );
 
