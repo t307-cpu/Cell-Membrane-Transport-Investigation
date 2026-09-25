@@ -1161,7 +1161,7 @@
 
         objective:
           "Move one oxygen molecule from outside the cell to inside " +
-          "the cell through the highlighted open bilayer.",
+          "the cell through the highlighted phospholipid bilayer.",
 
         principle:
           "Simple diffusion moves particles from high concentration " +
