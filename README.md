@@ -2186,7 +2186,7 @@
               <label class="answer-option">
                 <input type="radio" name="q2" value="a" />
                 <span>
-                  The movement of water across a selectively permeable
+                  The movement of water across a differentially permeable
                   membrane
                 </span>
               </label>
@@ -2879,7 +2879,7 @@
           "the cell through the highlighted aquaporin.",
 
         principle:
-          "Osmosis is the movement of water across a selectively " +
+          "Osmosis is the movement of water across a differentially " +
           "permeable membrane. Aquaporins increase the rate of water movement.",
 
         hint:
@@ -4557,7 +4557,7 @@
         prompt: "What is osmosis?",
         correct: "a",
         correctText:
-          "The movement of water across a selectively permeable membrane"
+          "The movement of water across a differentially permeable membrane"
       },
 
       {
