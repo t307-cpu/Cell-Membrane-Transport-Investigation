@@ -1926,7 +1926,7 @@
           restoreDraggedMolecule(molecule);
 
           setFeedback(
-            "For osmosis, there is net water movement from the side with" +
+            "For osmosis, there is net water movement from the side with " +
             "higher water potential to the side with lower water potential.",
             "warning"
           );
